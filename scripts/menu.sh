@@ -29,7 +29,7 @@ clear
 
 rm /bin/ver1 > /dev/null 2> /dev/null
 
-wget -c -P /bin https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/ver1 > /dev/null 2> /dev/null
+wget -c -P /bin https://raw.githubusercontent.com/BangJagu/on/main/ver1 > /dev/null 2> /dev/null
 
 cd /bin
 
