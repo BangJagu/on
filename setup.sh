@@ -257,13 +257,13 @@ then
 	chmod +x /bin/ajuda
 	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/sshmonitor2.sh -O /bin/sshmonitor
 	chmod +x /bin/sshmonitor
-	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/menu.sh -O /bin/menu
+	wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/menu.sh -O /bin/menu
 	chmod +x /bin/menu
-	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/menu1.sh -O /bin/menu1
+	wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/menu1.sh -O /bin/menu1
 	chmod +x /bin/menu1
-	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/menu2.sh -O /bin/menu2
+	wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/menu2.sh -O /bin/menu2
 	chmod +x /bin/menu2
-	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/menu3.sh -O /bin/menu3
+	wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/menu3.sh -O /bin/menu3
 	chmod +x /bin/menu3
 	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/atualizar.sh -O /bin/atualizar
 	chmod +x /bin/atualizar
@@ -274,9 +274,9 @@ then
 	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/socks.py -O /bin/socks.py
 	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/socks -O /bin/socks
 	chmod +x /bin/socks
-	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/setup.sh -O /bin/setup.sh
+	wget https://raw.githubusercontent.com/BangJagu/on/main/setup.sh -O /bin/setup.sh
 	chmod +x /bin/setup.sh
-	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/att.sh -O /bin/att
+	wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/att.sh -O /bin/att
 	chmod +x /bin/att
 	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/ver -O /bin/ver
 	wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/ver1 -O /bin/ver1
