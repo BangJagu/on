@@ -116,17 +116,17 @@ sleep 5
 clear
 
 
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/addhost.sh -O /bin/addhost
+wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/addhost.sh -O /bin/addhost
 chmod +x /bin/addhost
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/alterarsenha.sh -O /bin/alterarsenha
+wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/alterarsenha.sh -O /bin/alterarsenha
 chmod +x /bin/alterarsenha
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/criarusuario2.sh -O /bin/criarusuario
+wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/criarusuario2.sh -O /bin/criarusuario
 chmod +x /bin/criarusuario
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/delhost.sh -O /bin/delhost
+wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/delhost.sh -O /bin/delhost
 chmod +x /bin/delhost
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/expcleaner2.sh -O /bin/expcleaner
+wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/expcleaner2.sh -O /bin/expcleaner
 chmod +x /bin/expcleaner
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/mudardata.sh -O /bin/mudardata
+wget https://raw.githubusercontent.com/BangJagu/on/main/scripts/mudardata.sh -O /bin/mudardata
 chmod +x /bin/mudardata
 wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/remover.sh -O /bin/remover
 chmod +x /bin/remover
@@ -155,7 +155,7 @@ chmod +x /bin/userbkp
 wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/socks.py -O /bin/socks.py
 wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/socks -O /bin/socks
 chmod +x /bin/socks
-wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/setup.sh -O /bin/setup.sh
+wget https://raw.githubusercontent.com/BangJagu/on/main/setup.sh -O /bin/setup.sh
 chmod +x /bin/setup.sh
 wget https://raw.githubusercontent.com/Leonn34/scriptsousatips/master/scripts/att.sh -O /bin/att
 chmod +x /bin/att
