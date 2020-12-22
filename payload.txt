@@ -1,0 +1,8 @@
+.api-cua.maxis.com.my
+.images.digi.com.my
+.facebook.net
+.netclaro.com.br
+.speedtest.net
+.tim.com.br
+.vivo.com.br
+.oi.com.br 
