@@ -1,8 +1,8 @@
 .api-cua.maxis.com.my
 .images.digi.com.my
 .facebook.net
-.netclaro.com.br
+.ws.stream.qqmusic.qq.com
 .speedtest.net
-.tim.com.br
-.vivo.com.br
+.res.music.wechat.com
+.cos.video.joox.com
 .oi.com.br 
