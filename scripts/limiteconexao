@@ -1,0 +1,8 @@
+#!/bin/bash
+
+clear
+echo "Iniciando SSHLIMITER..."
+sleep 3
+screen -dmS screen sshlimiter
+clear
+menu
