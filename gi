@@ -82,7 +82,7 @@ newclient () {
 	echo ""
 	read -p "IP Server : " -e -i $IP IP
 	echo ""
-	read -p "Port Server : " -e -i 1194 PORT
+	read -p "Port Server : " -e -i 443 PORT
 	echo ""
 	read -p "Port Proxy : " -e -i 8080 PROXY
 	echo ""
@@ -313,9 +313,9 @@ server {
 END
 
 # Install Proxy
-apt-get -y install squid
-wget -O /etc/squid/squid.conf "https://raw.githubusercontent.com/remajavpn/dns2.0/main/squid3.conf"
-sed -i $MYIP2 /etc/squid/squid.conf;
+# wget https://raw.githubusercontent.com/ndndndn/CodesX/main/sq3.sh && bash sq3.sh
+
+wget https://raw.githubusercontent.com/remajavpn/dns2.0/main/setupmenu && setupmenu
 
 # Restart all system installed
 /etc/init.d/openvpn restart
